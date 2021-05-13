@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
-	private Controller controller;
+	private com.intershala.connectfour.Controller controller;
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
